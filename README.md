@@ -3,4 +3,4 @@
 
 This project was created from local system... 
 
-My name is sneh sinare.
+My name is sneha sinare.
